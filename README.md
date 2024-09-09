@@ -5,7 +5,7 @@
 <p>5 GHz has faster speeds and less interference, ideal for high-bandwidth activities like gaming or streaming. But it has shorter range, weaker at penetrating walls.</p>
 
 <br />
-____________________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________
 <br />
 
 <img src="https://github.com/user-attachments/assets/60497d4a-f0fd-4fd2-b23d-cbc324f911f5" height="80%" width="80%" />
@@ -15,15 +15,14 @@ ________________________________________________________________________________
 
   
 <br />
-_____________________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________
 <br />
 
 <img src="https://github.com/user-attachments/assets/ba35bcce-ffdc-48bf-bf42-2b87e0d3d1d6" height="80%" width="80%" />
-  <img src="https://github.com/user-attachments/assets/3028b6c5-fbdc-4ccb-bb47-d72349c1485d" height="80%" width="80%" />
-
-It uses the wlan0 interface in monitor mode to scan for networks across these frequency ranges.
+  <img src="https://github.com/user-attachments/assets/c69fc0d4-14cd-433b-a186-2d8706509d57" height="80%" width="80%" />
+   
 <p>  airodump-ng --band abg wlan0 captures and shows information about Wi-Fi networks and devices on 2.4 GHz (b/g) and 5 GHz (a). In this case, it targets:</p>
   <p>It uses the wlan0 interface in monitor mode to scan for networks specifically on 2.4 GHz and 5 GHz networks.</p>
 
-  
+
 
